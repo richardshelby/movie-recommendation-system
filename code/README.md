@@ -14,3 +14,6 @@ https://cookiecutter-data-science.drivendata.org/
 
 Notebook for Rich Shelby to do exploratory data analysis.
 
+### 1.0-ah-embeddings.ipynb
+
+Notebook by Andrea Hwang to create vector embeddings from text data.

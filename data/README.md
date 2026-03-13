@@ -12,6 +12,11 @@ https://cookiecutter-data-science.drivendata.org/
 │   └── raw            <- The original, immutable data dump.
 ```
 
+## data/interim
+
+### Overview_Vector_Embeddings.csv
+
+Contains vector embeddings from the "overview" column of the original data source.
 
 ## /data/raw
 
