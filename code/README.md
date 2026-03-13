@@ -10,6 +10,7 @@ https://cookiecutter-data-science.drivendata.org/
 
 ## File Descriptions
 
-### 1.0-rs-eda
+### 1.0-rs-eda.ipynb
 
 Notebook for Rich Shelby to do exploratory data analysis.
+
