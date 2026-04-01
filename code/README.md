@@ -22,3 +22,7 @@ Notebook by Andrea Hwang to create vector embeddings from text data.
 
 Notebook by Devashish Singh for work on final project
 
+### 2.0-DS-GraphNotebook.ipynb
+
+Notebook by Devashish Singh for work on graphs
+
