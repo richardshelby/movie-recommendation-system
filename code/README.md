@@ -26,3 +26,18 @@ Notebook by Devashish Singh for work on final project
 
 Notebook by Devashish Singh for work on graphs
 
+### 2.0-ah-eda.ipynb
+
+Notebook by Andrea Hwang to do exploratory data analysis on building a graph.
+
+### 2.0-ah-embeddings.ipynb
+
+Notebook by Andrea Hwang to update vector embeddings from text data by combining columns into a text summary.
+
+### 3.0-ah-embeddings-eda.ipynb
+
+Notebook by Andrea Hwang to updated vector embeddings from text data by combining more columns into a text summary from the cleaned movie data set. Notebook also contains code to build the graph used for the algorithms.
+
+### algorithms/1.0-ah-harmonic-centrality.ipynb
+
+Notebook by Andrea Hwang to run the Harmonic Centrality algorithm on the graph to identify movies that are most central to the graph.
