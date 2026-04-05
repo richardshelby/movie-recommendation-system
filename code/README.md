@@ -38,6 +38,6 @@ Notebook by Andrea Hwang to update vector embeddings from text data by combining
 
 Notebook by Andrea Hwang to updated vector embeddings from text data by combining more columns into a text summary from the cleaned movie data set. Notebook also contains code to build the graph used for the algorithms.
 
-### algorithms/1.0-ah-harmonic-centrality.ipynb
+### 1.0-ah-harmonic-centrality.ipynb
 
 Notebook by Andrea Hwang to run the Harmonic Centrality algorithm on the graph to identify movies that are most central to the graph.
