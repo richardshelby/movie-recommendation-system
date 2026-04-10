@@ -14,9 +14,33 @@ https://cookiecutter-data-science.drivendata.org/
 
 ## data/interim
 
+### Graph_Nodes.csv
+
+Contains information of nodes that were created for neo4j.
+
+### Graph_Relationships.csv
+
+Contains information of similarity relationships that were created for neo4j.
+
+### Harmonic_Centrality_Analysis.csv
+
+Contains output that includes closeness scores from running the harmonic centrality algorithm on the full graph.
+
 ### Overview_Vector_Embeddings.csv
 
 Contains vector embeddings from the "overview" column of the original data source.
+
+### Sorted_Harmonic_Centrality_Analysis.csv
+
+Contains output that includes closeness scores from running the harmonic centrality algorithm on the full graph, sorted by movie title.
+
+### Summarized_Text_2.0_Vector_Embeddings.csv
+
+Contains vector embeddings from the "summarized_text" column that contains information from the "title", "genres", "tagline", and "overview" columns of the original data source.
+
+### Summarized_Text_3.0_Vector_Embeddings.csv
+
+Contains vector embeddings from a summarized text template that contains information from all columns of the cleaned dataset.
 
 ### cleanmovies.csv
 
